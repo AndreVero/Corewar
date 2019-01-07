@@ -1,6 +1,6 @@
 # Corewar
 
-CoreWar
+# CoreWar
 
 Epitech Project.
 
@@ -8,7 +8,7 @@ ASM part is a compiler which "translate" asm langage to binary.
 
 Virtual machine takes those binaries and run them.
 
-ASM
+# ASM
 
 You can find some source code of asm here : Leha.s
 
@@ -16,7 +16,7 @@ It'll transform those .s in .cor that can be interpreated by the machine.
 
 You can create your own champ to make him fight against others champs.
 
-VM
+# VM
 
 The machine will run your champion and the others to make them fight each others.
 
